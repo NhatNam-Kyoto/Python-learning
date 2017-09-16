@@ -26,3 +26,4 @@ print(math.sqrt(c))
 print(type(math.sqrt(c)))
 
 #return > UCLN(a,b): gcd(a,b): int
+#
